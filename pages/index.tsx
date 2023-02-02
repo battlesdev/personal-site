@@ -14,10 +14,12 @@ export const Index = ({ posts }: IndexProps): JSX.Element => {
   return (
     <Layout>
       <br />
+      <br />
       <h2 className="font-mono dark:text-gray-400">jerodestapa</h2>
       <br />
+      <br />
       <h1 className="text-3xl md:text-5xl font-sans text-zinc-800 dark:text-neutral-300">
-        Occasional rants on software, machine learning, and blockchain security. And, from time to time, maybe a little philosophy or narrative theory. 
+        Occasional rants on software, culture, data & security.  
       </h1>
       <br />
 
